@@ -16,5 +16,10 @@
   "devDependencies": {
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6"
+  },
+  "engines": {
+    "node": ">=16.14.2",
+    "yarn": ">=1.22.18",
+    "npm": "please-use-yarn"
   }
 }
